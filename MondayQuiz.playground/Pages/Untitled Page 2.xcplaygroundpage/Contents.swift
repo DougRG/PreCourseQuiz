@@ -12,6 +12,14 @@ Don't forget to call the function at the bottom
 
 import Foundation
 
+var ages = ["Doug" : 30, "Jamie" : 28, "Jack" : 4, "Brody" : 2, "Indominus Rex" : 1]
+
+func birthdayTime  {
+    
+    
+}
+
+
 
 
 //: [Previous](@previous)

@@ -10,6 +10,19 @@ Don't forget to call the function at the bottom
 
 import Foundation
 
+var isCoding = true
+
+func leaveMeAloneProbably () {
+    if isCoding = true {
+        print("GTFO bro, I'm working here.")
+    } else {
+        print("What's up?")
+    }
+}
+
+leaveMeAloneProbably()
+
+
 
 //: [Previous](@previous)
 //: [Next](@next)
